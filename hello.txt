@@ -1,2 +1,1 @@
-hello dunia!
-Ini berkas hello world terbaru
+hello world!
